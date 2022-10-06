@@ -1,1 +1,2 @@
-My first readme
+#My first readme
+Used a markdown now
